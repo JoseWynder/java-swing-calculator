@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.iws
+
+target/
+build/
+out/
+
+*.log
+*.tmp
+*.temp
+
+.DS_Store
+Thumbs.db
+
+mvnw
+mvnw.cmd
